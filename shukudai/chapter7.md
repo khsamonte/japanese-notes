@@ -4,14 +4,17 @@
 
 Please choose the correct grammatical pattern.
 
+### 1.
+
 <pre>
-<b>1.</b>
 A:　まいにち　べんきょうしますか？
 B:　はい、[　　]　べんきょうします。
 
 Choices:
 １。いつも　２。ときどき　３。ちょうど　４。あまり
+</pre>
 
+<pre>
 Answer: <b>1</b>
 はい、いつもべんきょうします。
 </pre>
