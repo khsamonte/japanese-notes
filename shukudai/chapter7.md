@@ -6,6 +6,8 @@ Please choose the correct grammatical pattern.
 
 ### 1.
 
+Question:
+
 <pre>
 A:　まいにち　べんきょうしますか？
 B:　はい、[　　]　べんきょうします。
@@ -14,14 +16,17 @@ Choices:
 １。いつも　２。ときどき　３。ちょうど　４。あまり
 </pre>
 
+Answer: **1**
+
 <pre>
-Answer: <b>1</b>
 はい、いつも べんきょうします。
 </pre>
 
 ---
 
 ### 2.
+
+Question:
 
 <pre>
 A:　何じかん　はたらきますか？
@@ -31,10 +36,13 @@ Choices:
 １。一時から　２。あした　３。まいにち　４。六時かん
 </pre>
 
+Answer: **4**
+
 <pre>
-Answer: <b>4</b>
 六時かんはたらきます。
 </pre>
+
+---
 
 <pre>
 <b>3.</b>
