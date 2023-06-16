@@ -4,7 +4,9 @@
 
 Please choose the correct grammatical pattern.
 
-Question #1:
+### 1.
+
+Question:
 
 <pre>
 A:　まいにち　べんきょうしますか？
@@ -14,7 +16,7 @@ Choices:
 １。いつも　２。ときどき　３。ちょうど　４。あまり
 </pre>
 
-Answer #1:
+Answer:
 
 <pre>
 1
@@ -23,7 +25,9 @@ Answer #1:
 
 ---
 
-Question #2:
+### 2.
+
+Question:
 
 <pre>
 A:　何じかん　はたらきますか？
@@ -33,7 +37,7 @@ Choices:
 １。一時から　２。あした　３。まいにち　４。六時かん
 </pre>
 
-Answer #2:
+Answer:
 
 <pre>
 4
@@ -42,30 +46,46 @@ Answer #2:
 
 ---
 
+### 3.
+
 <pre>
-<b>3.</b>
 A:　けさ　[　　]　おきました。五時ごろです。
 B:　そうですか。
 
 Choices:
 １。はやい ２。はやく　３。はやかった　４。はやいに
+</pre>
 
-Answer: <b>2</b>
+Answer:
+
+<pre>
+2
 けさはやく起きました。五時ごろです。
 </pre>
 
+---
+
+### 4.
+
 <pre>
-<b>4.</b>
 A:　何時に　ねますか？
 B:　[　　]　に　ねます。
 
 Choices:
 １。十時間半　２。十時半
 ３。十分間　４。十時
+</pre>
 
-Answer: <b>4</b>
+Answer:
+
+<pre>
+4
 十時にねます。
 </pre>
+
+---
+
+### 5.
 
 <pre>
 <b>5.</b>
