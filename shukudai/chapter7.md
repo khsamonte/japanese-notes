@@ -269,7 +269,7 @@ Answers:
 Please read and answer the questions below.
 
 <pre>
-<b>日本のりゅうがくせい</b>
+<b>日本の留学生</b>
 
   私は日本にいます。フィリピンから
 日本までひこうきで四時間ぐらい
