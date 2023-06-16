@@ -1,7 +1,6 @@
-Chapter 7
-Shukudai
+# Chapter 7 Shukudai
 
-# I.
+## I.
 
 Please choose the correct grammatical pattern.
 
@@ -75,20 +74,21 @@ A:　せんしゅう　がっこうは　[　　]。
 Answer:
 </pre>
 
-<pre>
-<b>9.</b>
-A:
-B:
+## II.
 
+Please rearrange the words to complete the sentence.
+
+<pre>
+<b>1.</b>　あなた　[　　]　[　　]　[　　]　[　　]　に　おわりますか。
+１。何ようび　２。の　３。トレーニング　４。は
 
 Answer:
 </pre>
 
-<pre>
-<b>10.</b>
-A:
-B:
+## III.
 
+Please fill-in the proper word or phrase to complete the sentence.
 
-Answer:
-</pre>
+## IV.
+
+Please read and answer the questions below.
