@@ -4,9 +4,7 @@
 
 Please choose the correct grammatical pattern.
 
-### 1.
-
-Question:
+Question #1:
 
 <pre>
 A:　まいにち　べんきょうしますか？
@@ -16,7 +14,7 @@ Choices:
 １。いつも　２。ときどき　３。ちょうど　４。あまり
 </pre>
 
-Answer:
+Answer #1:
 
 <pre>
 1
@@ -25,9 +23,7 @@ Answer:
 
 ---
 
-### 2.
-
-Question:
+Question #2:
 
 <pre>
 A:　何じかん　はたらきますか？
@@ -37,7 +33,7 @@ Choices:
 １。一時から　２。あした　３。まいにち　４。六時かん
 </pre>
 
-Answer:
+Answer #2:
 
 <pre>
 4
