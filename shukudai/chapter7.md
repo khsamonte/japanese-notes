@@ -91,10 +91,67 @@ Answer:
 Please rearrange the words to complete the sentence.
 
 <pre>
-<b>1.</b>　あなた　___　___　___　___　に　おわりますか。
+<b>1.</b>　あなた　＿＿＿　＿＿＿　＿＿＿　＿＿＿　に　おわりますか。
 
 Choices:
 １。何ようび　２。の　３。トレーニング　４。は
+Answer:
+</pre>
+
+<pre>
+<b>2.</b>　＿＿＿ ＿＿＿　＿＿＿　＿＿＿　しました。
+
+Choices:
+１。まで　２。十時　３。ざんぎょう　４。ゆうべ
+
+Answer:
+</pre>
+
+<pre>
+<b>3.</b>
+
+Choices:
+
+Answer:
+</pre>
+
+<pre>
+<b>4.</b>
+
+Choices:
+
+Answer:
+</pre>
+
+<pre>
+<b>5.</b>
+
+Choices:
+
+Answer:
+</pre>
+
+<pre>
+<b>6.</b>
+
+Choices:
+
+Answer:
+</pre>
+
+<pre>
+<b>7.</b>
+
+Choices:
+
+Answer:
+</pre>
+
+<pre>
+<b>8.</b>
+
+Choices:
+
 Answer:
 </pre>
 
