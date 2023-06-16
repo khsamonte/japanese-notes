@@ -3,7 +3,6 @@ Shukudai
 
 # I.
 
-ぶんぽう　けいしきの　はんだん
 Please choose the correct grammatical pattern.
 
 <pre>
