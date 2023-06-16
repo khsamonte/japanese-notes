@@ -95,7 +95,9 @@ Please rearrange the words to complete the sentence.
 
 Choices:
 １。何ようび　２。の　３。トレーニング　４。は
-Answer:
+
+Answer: <b>2-3-4-1</b>
+あなたのトレニングは何ようびにおわりますか。
 </pre>
 
 <pre>
@@ -135,7 +137,8 @@ Answer:
 
 Choices:
 １。に　２。べんきょうします　３。まじめ　４。は
-Answer:
+
+Answer: 
 </pre>
 
 <pre>
