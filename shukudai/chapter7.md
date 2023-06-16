@@ -237,7 +237,7 @@ Please fill-in the proper word or phrase to complete the sentence.
 十二時から一時までです。
 金曜日はトレーニングのしけんです。
 金曜日のごごはレポートです。
-土ようびと日ようびに　3)＿＿＿。
+土曜日と日曜日に　3)＿＿＿。
 
 
 Choices:
