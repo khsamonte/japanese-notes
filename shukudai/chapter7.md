@@ -289,7 +289,8 @@ Please read and answer the questions below.
 Questions:
 
 <pre>
-1) フィリピンから日本までどのぐらいかかりますか。
+1) フィリピンから日本まで
+どのぐらいかかりますか。
 １。一時間かかります
 ２。一時間半かかります
 ３。四時間ぐらいかかります
