@@ -216,7 +216,8 @@ Answer: <b>2-1-4-3</b>
 Please fill-in the proper word or phrase to complete the sentence.
 
 <pre>
-こんしゅう　しごと（１）＿＿＿　です。月ようびから　金ようびまで　トレニングです。
+こんしゅう　しごと　＿＿（１）＿＿　です。月ようびから
+金ようびまで　トレニングです。
 
 </pre>
 
